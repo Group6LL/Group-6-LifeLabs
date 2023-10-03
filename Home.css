@@ -34,6 +34,7 @@
   border-style: solid;
   text-transform: uppercase;
   letter-spacing: 2px;
+  font-weight: normal;
   margin: 30px auto 0 30px;
 }
 
@@ -117,10 +118,6 @@
   .u-section-1 .u-group-1 {
     width: 478px;
     margin-left: auto;
-  }
-
-  .u-section-1 .u-btn-1 {
-    font-weight: normal;
   }
 
   .u-section-1 .u-layout-wrap-1 {
